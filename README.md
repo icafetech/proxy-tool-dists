@@ -1,2 +1,6 @@
-# proxy-tool-dists
-Proxy tool distributions。
+# Proxy Tool Distributions 
+
+- ShadowsocksR
+- V2Ray
+
+
